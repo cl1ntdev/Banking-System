@@ -1,0 +1,17 @@
+body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.container{
+    /* align-items: center; */
+    justify-content: center;
+    display: flex;
+    border: 1px solid black;
+    height: 500px;
+    width: 1200px;
+}
+th{
+    background: gray;
+    width: 200px;
+}
